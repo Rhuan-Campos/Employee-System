@@ -1,7 +1,5 @@
 package io.rhuancampos.projectbackend.dto.mapper;
 
-package io.rhuancampos.projectbackend.dto.mapper;
-
 import io.rhuancampos.projectbackend.dto.EmployeeDto;
 import io.rhuancampos.projectbackend.entity.Employee;
 import org.modelmapper.ModelMapper;
